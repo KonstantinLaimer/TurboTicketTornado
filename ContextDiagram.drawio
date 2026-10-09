@@ -1,6 +1,6 @@
 <mxfile host="Electron">
   <diagram name="Seite-1" id="Fc6jzgC4Z0L6lpLIYAPJ">
-    <mxGraphModel dx="835" dy="1023" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="401" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -60,13 +60,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qMIv_mpFa34vdq4Dfaf2-24" edge="1" parent="1" source="uEREJcLzdll4DWppnaZ5-1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=sequenceEdgeStyle;libavoidRouting=0;curved=0;rounded=0;" value="Realtime-Seat-Status,&amp;nbsp;&lt;br&gt;Ticket-Sales">
-          <mxGeometry relative="1" x="-0.346" y="-5" as="geometry">
+          <mxGeometry relative="1" x="-0.3325" y="-6" as="geometry">
             <mxPoint as="offset" />
             <Array as="points">
-              <mxPoint x="269.31034482758616" y="528.9655172413793" />
+              <mxPoint x="261.2652114433655" y="520.0039154226539" />
             </Array>
-            <mxPoint x="350" y="570" as="sourcePoint" />
-            <mxPoint x="170" y="570" as="targetPoint" />
+            <mxPoint x="350" y="578.51" as="sourcePoint" />
+            <mxPoint x="170" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qMIv_mpFa34vdq4Dfaf2-40" edge="1" parent="1" source="qMIv_mpFa34vdq4Dfaf2-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" target="uEREJcLzdll4DWppnaZ5-1">
@@ -184,12 +184,6 @@
         </mxCell>
         <mxCell id="qMIv_mpFa34vdq4Dfaf2-64" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Database" vertex="1">
           <mxGeometry height="60" width="30" x="395" y="670" as="geometry" />
-        </mxCell>
-        <mxCell id="qMIv_mpFa34vdq4Dfaf2-66" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=sequenceEdgeStyle;libavoidRouting=0;curved=0;rounded=0;" value="return">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="250" y="520" as="sourcePoint" />
-            <mxPoint x="170" y="520" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="qMIv_mpFa34vdq4Dfaf2-69" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=sequenceEdgeStyle;libavoidRouting=0;curved=0;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" target="uEREJcLzdll4DWppnaZ5-2" value="Manage">
           <mxGeometry relative="1" x="-0.8201" as="geometry">
