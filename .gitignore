@@ -76,3 +76,15 @@ desktop.ini
 
 # macOS (falls Teammitglieder Macs nutzen)
 .DS_Store
+
+.idea
+db.sqlite3
+venv/
+.venv/
+env/
+.pcy
+*.log
+.env
+static_dir/
+.claude/
+.serena/
